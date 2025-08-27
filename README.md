@@ -10,5 +10,5 @@
 
 <p> </p>
 
-<p> <img src="https://github.com/Alxcostta/Wikipedia-2.0/blob/main/images/rir/homepage.PNG" alt="Home Page do site versão desktop"> </p>
+<p> <img src="https://github.com/Alxcostta/clone-pagina-YouTube/blob/main/assets/images/Macbook-Air-127.0.0.1.png" alt="Home Page do site versão desktop"> </p>
 <p> Home Page do site <p>
